@@ -1,0 +1,19 @@
+form {
+    border: 0px solid black;
+    border-right: 0cap;
+    margin-top: 220px;
+    margin-left: 37%;
+    margin-right: 37%;
+    background-color: rgb(127, 229, 255);
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+#email , #password {
+    color: red;
+    border-radius: 50px;
+    
+}
